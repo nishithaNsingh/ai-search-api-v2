@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: ai-search-api
+    env: python
+    plan: free
+
+    buildCommand: |
+      pip install --upgrade pip setuptools wheel
+      pip install -r requirements.txt
+      python download_model.py
+      python build_embeddings.py
+
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9

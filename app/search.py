@@ -5,9 +5,9 @@ import os
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-model = SentenceTransformer("all-mpnet-base-v2")
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
-embeddings = np.load(os.path.join(BASE_DIR, "embeddings", "product_embeddings_v2.npy"))
+embeddings = np.load(os.path.join(BASE_DIR, "embeddings", "product_embeddings_v1.npy"))
 
 products_df = pd.read_csv(os.path.join(BASE_DIR, "data", "cleaned_products.csv"))
 

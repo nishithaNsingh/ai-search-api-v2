@@ -7,10 +7,9 @@ services:
     buildCommand: |
       pip install --upgrade pip setuptools wheel
       pip install -r requirements.txt
-      python download_model.py
-      python build_embeddings.py
+      python build_embeddings_v1.py
 
-    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
 
     envVars:
       - key: PYTHON_VERSION

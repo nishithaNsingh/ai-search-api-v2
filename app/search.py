@@ -14,8 +14,9 @@ def search_products(query, top_k=10):
 
     results = products_df.iloc[top_indices]
 
-    results = results[
-        ["name", "main_category", "sub_category", "discount_price", "image", "link"]
-    ]
+    columns_to_show = ["name","main_category","sub_category","discount_price","actual_price","image","link"]
+    available_columns = [col for col in columns_to_show if col in results.columns]
+
+    results = results[available_columns]
 
     return results.fillna("").to_dict(orient="records")

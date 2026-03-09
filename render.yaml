@@ -5,9 +5,7 @@ services:
     plan: free
 
     buildCommand: |
-      pip install --upgrade pip setuptools wheel
       pip install -r requirements.txt
-      python build_embeddings_v1.py
 
     startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
 

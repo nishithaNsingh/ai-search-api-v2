@@ -1,10 +1,21 @@
+from sentence_transformers import SentenceTransformer
 import numpy as np
-import pandas as pd
+import json
+import torch
 
-print("Loading embeddings and dataset...")
+print("🔄 Loading model and data...")
 
-product_embeddings = np.load("embeddings/product_embeddings_v1.npy")
+# 🔥 Reduce CPU usage
+torch.set_num_threads(1)
 
-products_df = pd.read_csv("data/cleaned_products.csv")
+# 🔥 Load model ONCE
+model = SentenceTransformer("all-MiniLM-L6-v2")
 
-print("Data loaded successfully.")
+# 🔥 Load embeddings
+product_embeddings = np.load("embeddings/zatch_embeddings.npy")
+
+# 🔥 Load products
+with open("data/zatch_products.json", encoding="utf-8") as f:
+    products = json.load(f)["products"]
+
+print("✅ Model and data loaded successfully!")

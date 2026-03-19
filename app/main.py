@@ -5,7 +5,7 @@ app = FastAPI()
 
 @app.get("/")
 def home():
-    return {"message": "AI Search API running"}
+    return {"message": "AI Search API running 🚀"}
 
 @app.get("/search")
 def search(query: str):

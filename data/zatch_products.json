@@ -1,0 +1,1163 @@
+{
+    "success": true,
+    "message": "Products listed",
+    "products": [
+        {
+            "_id": "69a846974e2d6530993ab1c1",
+            "sellerId": "698e25132c63bfbc047683d8",
+            "name": "Lenin shirts",
+            "description": "Lenin shirts ",
+            "price": 599,
+            "discountedPrice": 599,
+            "images": [
+                {
+                    "public_id": "zatch/products/1772726710964-524788394.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772726710964-524788394.jpg",
+                    "_id": "69a9a9b94e2d6530993aeb0f"
+                },
+                {
+                    "public_id": "zatch/products/1772726711842-572929707.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772726711842-572929707.jpg",
+                    "_id": "69a9a9b94e2d6530993aeb10"
+                },
+                {
+                    "public_id": "zatch/products/1772726712634-579393208.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772726712634-579393208.jpg",
+                    "_id": "69a9a9b94e2d6530993aeb11"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "beige",
+                    "size": "MEDIUM",
+                    "stock": 50,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772726713064-528976501.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772726713064-528976501.jpg",
+                            "_id": "69a9a9bb4e2d6530993aeb1e"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772726713297-214082378.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772726713297-214082378.jpg",
+                            "_id": "69a9a9bb4e2d6530993aeb1f"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772726713563-790495930.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772726713563-790495930.jpg",
+                            "_id": "69a9a9bb4e2d6530993aeb20"
+                        }
+                    ]
+                }
+            ],
+            "category": "Men",
+            "subCategory": "formal-shirts",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-69A846",
+            "totalStock": 50,
+            "saveCount": 0,
+            "likeCount": 0,
+            "viewCount": 3,
+            "commentCount": 0,
+            "averageRating": 0,
+            "isTopPick": false,
+            "comments": [],
+            "myProduct": false,
+            "isLiked": false
+        },
+        {
+            "_id": "69a1ad211efc346e038a9611",
+            "sellerId": "6995bf9a530ccacc606d365f",
+            "name": "LG washing Machine ",
+            "description": "Inverter Direct Drive Motor 7kg",
+            "price": 30000,
+            "discountedPrice": 27500,
+            "images": [
+                {
+                    "public_id": "zatch/products/1772203530815-279365185.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772203530815-279365185.jpg",
+                    "_id": "69a1ae0f1efc346e038a98fe"
+                },
+                {
+                    "public_id": "zatch/products/1772203532846-580142228.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772203532846-580142228.jpg",
+                    "_id": "69a1ae0f1efc346e038a98ff"
+                },
+                {
+                    "public_id": "zatch/products/1772203533085-944078938.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772203533085-944078938.jpg",
+                    "_id": "69a1ae0f1efc346e038a9900"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "silver",
+                    "size": "NONE",
+                    "stock": 5,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772203346683-810070855.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772203346683-810070855.jpg",
+                            "_id": "69a1ad5d1efc346e038a9627"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772203348945-161857442.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772203348945-161857442.jpg",
+                            "_id": "69a1ad5d1efc346e038a9628"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772203349951-406544155.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772203349951-406544155.jpg",
+                            "_id": "69a1ad5d1efc346e038a9629"
+                        }
+                    ]
+                }
+            ],
+            "category": "electronics",
+            "subCategory": "washing-machines",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-69A1AD",
+            "totalStock": 5,
+            "saveCount": 1,
+            "likeCount": 0,
+            "viewCount": 11,
+            "commentCount": 0,
+            "averageRating": 0,
+            "isTopPick": false,
+            "comments": [],
+            "myProduct": false,
+            "isLiked": false
+        },
+        {
+            "_id": "69a1ac2e1efc346e038a9574",
+            "sellerId": "6995bf9a530ccacc606d365f",
+            "name": "VOLTAS .beko",
+            "description": "Proudly Made in India ",
+            "price": 29000,
+            "discountedPrice": 29000,
+            "images": [
+                {
+                    "public_id": "zatch/products/1772203125407-543014936.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772203125407-543014936.jpg",
+                    "_id": "69a1ac791efc346e038a957e"
+                },
+                {
+                    "public_id": "zatch/products/1772203127565-469455620.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772203127565-469455620.jpg",
+                    "_id": "69a1ac791efc346e038a957f"
+                },
+                {
+                    "public_id": "zatch/products/1772203127990-487462945.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772203127990-487462945.jpg",
+                    "_id": "69a1ac791efc346e038a9580"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "silver",
+                    "size": "NONE",
+                    "stock": 5,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772203128266-38622385.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772203128266-38622385.jpg",
+                            "_id": "69a1ac811efc346e038a958a"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772203128524-806401817.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772203128524-806401817.jpg",
+                            "_id": "69a1ac811efc346e038a958b"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772203128774-136888730.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772203128774-136888730.jpg",
+                            "_id": "69a1ac811efc346e038a958c"
+                        }
+                    ]
+                }
+            ],
+            "category": "electronics",
+            "subCategory": "refrigerators",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-69A1AC",
+            "totalStock": 5,
+            "saveCount": 0,
+            "likeCount": 0,
+            "viewCount": 8,
+            "commentCount": 0,
+            "averageRating": 0,
+            "isTopPick": false,
+            "comments": [],
+            "myProduct": false,
+            "isLiked": false
+        },
+        {
+            "_id": "699aa83a3ec6020eaac633af",
+            "sellerId": "699308462c63bfbc04771685",
+            "name": "4x4 Premium Photo Frame ",
+            "description": "Premium photo frame with imported Acyrlic Glass ",
+            "price": 249,
+            "discountedPrice": 249,
+            "images": [
+                {
+                    "public_id": "zatch/products/1771743564489-509734307.png",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1771743564489-509734307.png",
+                    "_id": "699aa9503ec6020eaac633b9"
+                },
+                {
+                    "public_id": "zatch/products/1771743566386-544201401.png",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1771743566386-544201401.png",
+                    "_id": "699aa9503ec6020eaac633ba"
+                },
+                {
+                    "public_id": "zatch/products/1771743566809-707743017.png",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1771743566809-707743017.png",
+                    "_id": "699aa9503ec6020eaac633bb"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "white",
+                    "size": "4X4",
+                    "stock": 47,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1771743567144-858545410.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771743567144-858545410.png",
+                            "_id": "699aa96c3ec6020eaac633cd"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1771743567455-213709992.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771743567455-213709992.png",
+                            "_id": "699aa96c3ec6020eaac633ce"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1771743567737-385371394.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771743567737-385371394.png",
+                            "_id": "699aa96c3ec6020eaac633cf"
+                        }
+                    ]
+                },
+                {
+                    "color": "black",
+                    "size": "4X4",
+                    "stock": 49,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1771743568019-655516023.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771743568019-655516023.png",
+                            "_id": "699aa96c3ec6020eaac633d0"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1771743568276-320889067.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771743568276-320889067.png",
+                            "_id": "699aa96c3ec6020eaac633d1"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1771743568565-914906874.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771743568565-914906874.png",
+                            "_id": "699aa96c3ec6020eaac633d2"
+                        }
+                    ]
+                }
+            ],
+            "category": "Home",
+            "subCategory": "photo-frames",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-699AA8",
+            "totalStock": 99,
+            "saveCount": 1,
+            "likeCount": 0,
+            "viewCount": 19,
+            "commentCount": 0,
+            "averageRating": 5,
+            "isTopPick": false,
+            "comments": [],
+            "myProduct": false,
+            "isLiked": false
+        },
+        {
+            "_id": "6999d5543ec6020eaac6152d",
+            "sellerId": "698e264a2c63bfbc04768582",
+            "name": "Clock ",
+            "description": "Titan Classic Wooden Wall Clock in Roman Numerals with Silent Sweep - 41.5 cm x 41.5 cm (Large)",
+            "price": 5000,
+            "discountedPrice": 4500,
+            "images": [
+                {
+                    "public_id": "zatch/products/1771689351388-192452222.webp",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1771689351388-192452222.webp",
+                    "_id": "6999d5893ec6020eaac6155e"
+                },
+                {
+                    "public_id": "zatch/products/1771689352441-834007263.webp",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1771689352441-834007263.webp",
+                    "_id": "6999d5893ec6020eaac6155f"
+                },
+                {
+                    "public_id": "zatch/products/1771689352864-848697333.webp",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1771689352864-848697333.webp",
+                    "_id": "6999d5893ec6020eaac61560"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "brown",
+                    "size": "MEDIUM",
+                    "stock": 27,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1771689353170-957678077.webp",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771689353170-957678077.webp",
+                            "_id": "6999d58e3ec6020eaac6156a"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1771689353428-265220217.webp",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771689353428-265220217.webp",
+                            "_id": "6999d58e3ec6020eaac6156b"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1771689353670-853686264.webp",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771689353670-853686264.webp",
+                            "_id": "6999d58e3ec6020eaac6156c"
+                        }
+                    ]
+                }
+            ],
+            "category": "Home",
+            "subCategory": "clocks",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-6999D5",
+            "totalStock": 30,
+            "saveCount": 1,
+            "likeCount": 0,
+            "viewCount": 35,
+            "commentCount": 1,
+            "averageRating": 2,
+            "isTopPick": false,
+            "comments": [
+                {
+                    "userId": "698e25132c63bfbc047683d8",
+                    "username": "krish",
+                    "profilePic": {
+                        "url": "https://zatchP.b-cdn.net/zatch/profiles/1771673259490-37378078.jpg"
+                    },
+                    "text": "good product",
+                    "rating": 5,
+                    "_id": "69a83e9a4e2d6530993a9f25",
+                    "images": [],
+                    "createdAt": "2026-03-04T14:15:54.086Z"
+                }
+            ],
+            "myProduct": true,
+            "isLiked": false
+        },
+        {
+            "_id": "69988931722cd8db737026d5",
+            "sellerId": "6992fed22c63bfbc04771576",
+            "name": "Strips Collection",
+            "description": "Youth ki kaavali style... Budget lo kaavali price! 😎👉 SLR GENTS WEAR \n\nCollege vallu aina sare, office lo panichese professionals aina sare – andariki perfect styles ready 🔥\n\n➡️ Trendy shirts\n➡️ Super quality\n➡️ Budget lo best offers\n\n\nAvailable Sizes \nS M L ",
+            "price": 499,
+            "discountedPrice": 349,
+            "images": [
+                {
+                    "public_id": "zatch/products/1772525449841-959971000.png",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772525449841-959971000.png",
+                    "_id": "69a697980a0ce3fd3a6caaca"
+                },
+                {
+                    "public_id": "zatch/products/1772525451891-847354157.png",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772525451891-847354157.png",
+                    "_id": "69a697980a0ce3fd3a6caacb"
+                },
+                {
+                    "public_id": "zatch/products/1772525452138-398871099.png",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772525452138-398871099.png",
+                    "_id": "69a697980a0ce3fd3a6caacc"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "grey",
+                    "size": "SMALL",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525452406-568783901.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525452406-568783901.png",
+                            "_id": "69a697fc0a0ce3fd3a6caad6"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525452733-15628928.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525452733-15628928.png",
+                            "_id": "69a697fc0a0ce3fd3a6caad7"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525452980-978002243.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525452980-978002243.png",
+                            "_id": "69a697fc0a0ce3fd3a6caad8"
+                        }
+                    ]
+                },
+                {
+                    "color": "grey",
+                    "size": "MEDIUM",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525453257-821390411.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525453257-821390411.png",
+                            "_id": "69a697fc0a0ce3fd3a6caad9"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525453535-203816546.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525453535-203816546.png",
+                            "_id": "69a697fc0a0ce3fd3a6caada"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525454252-3280747.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525454252-3280747.png",
+                            "_id": "69a697fc0a0ce3fd3a6caadb"
+                        }
+                    ]
+                },
+                {
+                    "color": "grey",
+                    "size": "LARGE",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525454484-288494136.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525454484-288494136.png",
+                            "_id": "69a697fc0a0ce3fd3a6caadc"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525454769-907664456.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525454769-907664456.png",
+                            "_id": "69a697fc0a0ce3fd3a6caadd"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525455189-735140934.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525455189-735140934.png",
+                            "_id": "69a697fc0a0ce3fd3a6caade"
+                        }
+                    ]
+                },
+                {
+                    "color": "deep pink",
+                    "size": "SMALL",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525455581-289889350.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525455581-289889350.png",
+                            "_id": "69a697fc0a0ce3fd3a6caadf"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525455863-792288809.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525455863-792288809.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae0"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525456106-788963113.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525456106-788963113.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae1"
+                        }
+                    ]
+                },
+                {
+                    "color": "deep pink",
+                    "size": "MEDIUM",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525456328-52097566.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525456328-52097566.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae2"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525456758-300484721.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525456758-300484721.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae3"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525457170-730973599.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525457170-730973599.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae4"
+                        }
+                    ]
+                },
+                {
+                    "color": "deep pink",
+                    "size": "LARGE",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525457440-439315621.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525457440-439315621.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae5"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525457664-18713213.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525457664-18713213.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae6"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525457971-716144057.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525457971-716144057.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae7"
+                        }
+                    ]
+                },
+                {
+                    "color": "cream",
+                    "size": "SMALL",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525458220-675680652.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525458220-675680652.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae8"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525458545-488565016.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525458545-488565016.png",
+                            "_id": "69a697fc0a0ce3fd3a6caae9"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525458791-812978865.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525458791-812978865.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaea"
+                        }
+                    ]
+                },
+                {
+                    "color": "cream",
+                    "size": "LARGE",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525459196-447077736.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525459196-447077736.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaeb"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525459473-26343661.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525459473-26343661.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaec"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525459780-402238854.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525459780-402238854.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaed"
+                        }
+                    ]
+                },
+                {
+                    "color": "light blue",
+                    "size": "SMALL",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525460032-519306051.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525460032-519306051.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaee"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525460291-305109104.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525460291-305109104.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaef"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525460538-335287407.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525460538-335287407.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf0"
+                        }
+                    ]
+                },
+                {
+                    "color": "light blue",
+                    "size": "MEDIUM",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525460822-655652134.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525460822-655652134.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf1"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525461054-420078826.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525461054-420078826.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf2"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525461333-187430726.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525461333-187430726.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf3"
+                        }
+                    ]
+                },
+                {
+                    "color": "light green",
+                    "size": "SMALL",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525461619-425633330.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525461619-425633330.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf4"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525461906-291626577.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525461906-291626577.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf5"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525462153-529018954.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525462153-529018954.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf6"
+                        }
+                    ]
+                },
+                {
+                    "color": "light green",
+                    "size": "MEDIUM",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525462436-776976948.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525462436-776976948.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf7"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525462709-245899498.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525462709-245899498.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf8"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525462978-7695553.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525462978-7695553.png",
+                            "_id": "69a697fc0a0ce3fd3a6caaf9"
+                        }
+                    ]
+                },
+                {
+                    "color": "light green",
+                    "size": "LARGE",
+                    "stock": 1,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772525463223-118837730.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525463223-118837730.png",
+                            "_id": "69a697fc0a0ce3fd3a6caafa"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525463498-226556081.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525463498-226556081.png",
+                            "_id": "69a697fc0a0ce3fd3a6caafb"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772525463777-798479190.png",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772525463777-798479190.png",
+                            "_id": "69a697fc0a0ce3fd3a6caafc"
+                        }
+                    ]
+                }
+            ],
+            "category": "Men",
+            "subCategory": "casual-shirts",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-699889",
+            "totalStock": 13,
+            "saveCount": 0,
+            "likeCount": 0,
+            "viewCount": 2,
+            "commentCount": 0,
+            "averageRating": 0,
+            "isTopPick": false,
+            "comments": [],
+            "myProduct": false,
+            "isLiked": false
+        },
+        {
+            "_id": "6995d3468c1ab0f14cb59635",
+            "sellerId": "698e264a2c63bfbc04768582",
+            "name": "Home Decor-Buddha",
+            "description": "Home Décor-Buddha (H-34.3CM)",
+            "price": 8000,
+            "discountedPrice": 7700,
+            "images": [
+                {
+                    "public_id": "zatch/products/1771426714047-118391490.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1771426714047-118391490.jpg",
+                    "_id": "6995d39e8c1ab0f14cb59896"
+                },
+                {
+                    "public_id": "zatch/products/1771426716701-215360115.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1771426716701-215360115.jpg",
+                    "_id": "6995d39e8c1ab0f14cb59897"
+                },
+                {
+                    "public_id": "zatch/products/1771426717311-974304892.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1771426717311-974304892.jpg",
+                    "_id": "6995d39e8c1ab0f14cb59898"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "gold",
+                    "size": "NONE",
+                    "stock": 6,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1771426717579-607457439.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771426717579-607457439.jpg",
+                            "_id": "6995d3a08c1ab0f14cb598c4"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1771426717828-20079780.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771426717828-20079780.jpg",
+                            "_id": "6995d3a08c1ab0f14cb598c5"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1771426718069-282454114.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1771426718069-282454114.jpg",
+                            "_id": "6995d3a08c1ab0f14cb598c6"
+                        }
+                    ]
+                }
+            ],
+            "category": "Home",
+            "subCategory": "table-decor",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-6995D3",
+            "totalStock": 10,
+            "saveCount": 1,
+            "likeCount": 0,
+            "viewCount": 31,
+            "commentCount": 1,
+            "averageRating": 5,
+            "isTopPick": false,
+            "comments": [
+                {
+                    "userId": "698e25132c63bfbc047683d8",
+                    "username": "krish",
+                    "profilePic": {
+                        "url": ""
+                    },
+                    "text": "fjfhhfjfj",
+                    "rating": 5,
+                    "_id": "69987a91722cd8db7370127a",
+                    "images": [],
+                    "createdAt": "2026-02-20T15:15:29.472Z"
+                }
+            ],
+            "myProduct": true,
+            "isLiked": false
+        },
+        {
+            "_id": "698e33212c63bfbc0476ae08",
+            "sellerId": "698e25132c63bfbc047683d8",
+            "name": "Leather jacket ",
+            "description": "Leather jacket ",
+            "price": 1499,
+            "discountedPrice": 650,
+            "images": [
+                {
+                    "public_id": "zatch/products/1772292965822-577929995.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772292965822-577929995.jpg",
+                    "_id": "69a30b681efc346e038ae8fc"
+                },
+                {
+                    "public_id": "zatch/products/1772292967055-752661933.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772292967055-752661933.jpg",
+                    "_id": "69a30b681efc346e038ae8fd"
+                },
+                {
+                    "public_id": "zatch/products/1772292967268-799924686.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1772292967268-799924686.jpg",
+                    "_id": "69a30b681efc346e038ae8fe"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "brown",
+                    "size": "MEDIUM",
+                    "stock": 15,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1772292967570-889869921.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772292967570-889869921.jpg",
+                            "_id": "69a30b691efc346e038ae90b"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772292967800-205049170.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772292967800-205049170.jpg",
+                            "_id": "69a30b691efc346e038ae90c"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1772292968051-865280514.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1772292968051-865280514.jpg",
+                            "_id": "69a30b691efc346e038ae90d"
+                        }
+                    ]
+                }
+            ],
+            "category": "Men",
+            "subCategory": "casual-shirts",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-698E33",
+            "totalStock": 15,
+            "saveCount": 0,
+            "likeCount": 0,
+            "viewCount": 22,
+            "commentCount": 0,
+            "averageRating": 0,
+            "isTopPick": false,
+            "comments": [],
+            "myProduct": false,
+            "isLiked": false
+        },
+        {
+            "_id": "698e32212c63bfbc0476a7f2",
+            "sellerId": "698e25132c63bfbc047683d8",
+            "name": "Turtleneck shirts",
+            "description": "Turtleneck shirts ",
+            "price": 999,
+            "discountedPrice": 899,
+            "images": [
+                {
+                    "public_id": "zatch/products/1770926647137-88663491.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1770926647137-88663491.jpg",
+                    "_id": "698e323a2c63bfbc0476a8b7"
+                },
+                {
+                    "public_id": "zatch/products/1770926648199-146079028.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1770926648199-146079028.jpg",
+                    "_id": "698e323a2c63bfbc0476a8b8"
+                },
+                {
+                    "public_id": "zatch/products/1770926648490-777930851.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1770926648490-777930851.jpg",
+                    "_id": "698e323a2c63bfbc0476a8b9"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "brown",
+                    "size": "MEDIUM",
+                    "stock": 15,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1770926648909-745129509.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926648909-745129509.jpg",
+                            "_id": "698e323e2c63bfbc0476a8e1"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926649174-709929561.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926649174-709929561.jpg",
+                            "_id": "698e323e2c63bfbc0476a8e2"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926649461-616656970.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926649461-616656970.jpg",
+                            "_id": "698e323e2c63bfbc0476a8e3"
+                        }
+                    ]
+                }
+            ],
+            "category": "Men",
+            "subCategory": "tshirts-polos",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-698E32",
+            "totalStock": 25,
+            "saveCount": 0,
+            "likeCount": 1,
+            "viewCount": 19,
+            "commentCount": 0,
+            "averageRating": 0,
+            "isTopPick": false,
+            "comments": [],
+            "myProduct": false,
+            "isLiked": false
+        },
+        {
+            "_id": "698e2fe72c63bfbc04769938",
+            "sellerId": "698e259d2c63bfbc04768479",
+            "name": "blue shirt ",
+            "description": "Good looking blue shirt ",
+            "price": 800,
+            "discountedPrice": 500,
+            "images": [
+                {
+                    "public_id": "zatch/products/1770926101504-474897587.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1770926101504-474897587.jpg",
+                    "_id": "698e301b2c63bfbc04769afa"
+                },
+                {
+                    "public_id": "zatch/products/1770926102367-626353360.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1770926102367-626353360.jpg",
+                    "_id": "698e301b2c63bfbc04769afb"
+                },
+                {
+                    "public_id": "zatch/products/1770926102787-861319545.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1770926102787-861319545.jpg",
+                    "_id": "698e301b2c63bfbc04769afc"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "gold",
+                    "size": "XL",
+                    "stock": 4,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1770926103207-187901771.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926103207-187901771.jpg",
+                            "_id": "698e30442c63bfbc04769b24"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926103482-806775467.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926103482-806775467.jpg",
+                            "_id": "698e30442c63bfbc04769b25"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926103724-279047099.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926103724-279047099.jpg",
+                            "_id": "698e30442c63bfbc04769b26"
+                        }
+                    ]
+                },
+                {
+                    "color": "gold",
+                    "size": "MEDIUM",
+                    "stock": 5,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1770926104218-902079276.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926104218-902079276.jpg",
+                            "_id": "698e30442c63bfbc04769b27"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926104504-838220533.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926104504-838220533.jpg",
+                            "_id": "698e30442c63bfbc04769b28"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926104763-609227022.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926104763-609227022.jpg",
+                            "_id": "698e30442c63bfbc04769b29"
+                        }
+                    ]
+                },
+                {
+                    "color": "gold",
+                    "size": "LARGE",
+                    "stock": 5,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1770926105008-638234369.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926105008-638234369.jpg",
+                            "_id": "698e30442c63bfbc04769b2a"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926105251-590375267.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926105251-590375267.jpg",
+                            "_id": "698e30442c63bfbc04769b2b"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926105493-302941737.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926105493-302941737.jpg",
+                            "_id": "698e30442c63bfbc04769b2c"
+                        }
+                    ]
+                },
+                {
+                    "color": "blue",
+                    "size": "XXL",
+                    "stock": 5,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1770926105716-125198123.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926105716-125198123.jpg",
+                            "_id": "698e30442c63bfbc04769b2d"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926105967-310965077.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926105967-310965077.jpg",
+                            "_id": "698e30442c63bfbc04769b2e"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926106227-734675744.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926106227-734675744.jpg",
+                            "_id": "698e30442c63bfbc04769b2f"
+                        }
+                    ]
+                },
+                {
+                    "color": "blue",
+                    "size": "LARGE",
+                    "stock": 5,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1770926106451-510222607.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926106451-510222607.jpg",
+                            "_id": "698e30442c63bfbc04769b30"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926106685-776426908.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926106685-776426908.jpg",
+                            "_id": "698e30442c63bfbc04769b31"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926106907-261083606.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926106907-261083606.jpg",
+                            "_id": "698e30442c63bfbc04769b32"
+                        }
+                    ]
+                },
+                {
+                    "color": "blue",
+                    "size": "XL",
+                    "stock": 5,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1770926107131-897485183.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926107131-897485183.jpg",
+                            "_id": "698e30442c63bfbc04769b33"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926107353-893631728.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926107353-893631728.jpg",
+                            "_id": "698e30442c63bfbc04769b34"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926107681-215254809.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926107681-215254809.jpg",
+                            "_id": "698e30442c63bfbc04769b35"
+                        }
+                    ]
+                }
+            ],
+            "category": "Men",
+            "subCategory": "formal-shirts",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-698E2F",
+            "totalStock": 30,
+            "saveCount": 0,
+            "likeCount": 0,
+            "viewCount": 55,
+            "commentCount": 1,
+            "averageRating": 5,
+            "isTopPick": false,
+            "comments": [
+                {
+                    "userId": "698e259d2c63bfbc04768479",
+                    "username": "Pavan",
+                    "profilePic": {
+                        "url": ""
+                    },
+                    "text": "Good",
+                    "rating": 5,
+                    "_id": "698e321b2c63bfbc0476a78e",
+                    "images": [],
+                    "createdAt": "2026-02-12T20:03:39.752Z"
+                }
+            ],
+            "myProduct": false,
+            "isLiked": false
+        },
+        {
+            "_id": "698e2fc02c63bfbc047698b2",
+            "sellerId": "698e25132c63bfbc047683d8",
+            "name": "Italian pants",
+            "description": "Italian pants",
+            "price": 800,
+            "discountedPrice": 400,
+            "images": [
+                {
+                    "public_id": "zatch/products/1770926047349-598994599.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1770926047349-598994599.jpg",
+                    "_id": "698e2fe12c63bfbc04769916"
+                },
+                {
+                    "public_id": "zatch/products/1770926048243-263170078.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1770926048243-263170078.jpg",
+                    "_id": "698e2fe12c63bfbc04769917"
+                },
+                {
+                    "public_id": "zatch/products/1770926048853-124221894.jpg",
+                    "url": "https://zatchP.b-cdn.net/zatch/products/1770926048853-124221894.jpg",
+                    "_id": "698e2fe12c63bfbc04769918"
+                }
+            ],
+            "variants": [
+                {
+                    "color": "grey",
+                    "size": "32",
+                    "stock": 23,
+                    "isOutOfStock": false,
+                    "images": [
+                        {
+                            "public_id": "zatch/products/variants/1770926049092-833479588.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926049092-833479588.jpg",
+                            "_id": "698e2fe62c63bfbc04769922"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926049349-861911188.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926049349-861911188.jpg",
+                            "_id": "698e2fe62c63bfbc04769923"
+                        },
+                        {
+                            "public_id": "zatch/products/variants/1770926049595-91941967.jpg",
+                            "url": "https://zatchP.b-cdn.net/zatch/products/variants/1770926049595-91941967.jpg",
+                            "_id": "698e2fe62c63bfbc04769924"
+                        }
+                    ]
+                }
+            ],
+            "category": "Men",
+            "subCategory": "jeans-trousers",
+            "productCategory": "GeneralProduct",
+            "SKU": "GEN-698E2F",
+            "totalStock": 25,
+            "saveCount": 0,
+            "likeCount": 0,
+            "viewCount": 22,
+            "commentCount": 0,
+            "averageRating": 0,
+            "isTopPick": false,
+            "comments": [],
+            "myProduct": false,
+            "isLiked": false
+        }
+    ]
+}
